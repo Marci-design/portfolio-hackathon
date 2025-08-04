@@ -12,7 +12,6 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 ##  Project Structure
  portfolio/
 ├── index.html # Main HTML page
-├── style.css # (optional) External CSS if separated
 └── README.md # This file
 
 > In this version, all the CSS is embedded in the HTML using `<style>` in the `<head>`.
